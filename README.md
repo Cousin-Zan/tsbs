@@ -74,7 +74,7 @@ cases are implemented for each database:
 |Cassandra|X||
 |ClickHouse|X||
 |CrateDB|X||
-|InfluxDB|X|X|
+|InfluxDB v2|X|X|
 |MongoDB|X|
 |QuestDB|X|X
 |SiriDB|X|
